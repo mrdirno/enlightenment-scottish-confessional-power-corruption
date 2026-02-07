@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment_scottish_confessional_power_corruption",
+  "title": "The Drystane Dyke",
+  "tagline": "To hold a nation's conscience, you must first break your own.",
+  "target_words": 70000,
+  "actual_words": 78323,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Corrosion of Idealism by Power",
+    "The Confessional as Political Weapon",
+    "The Myth of Scottish Enlightenment Rationality",
+    "The Personal Cost of National Ambition"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The London Rain",
+      "words": 3263
+    },
+    {
+      "ch": 2,
+      "title": "The Edinburgh Office",
+      "words": 3100
+    },
+    {
+      "ch": 3,
+      "title": "The First Leak",
+      "words": 2980
+    },
+    {
+      "ch": 4,
+      "title": "The Commission",
+      "words": 3200
+    },
+    {
+      "ch": 5,
+      "title": "The Backchannel",
+      "words": 3150
+    },
+    {
+      "ch": 6,
+      "title": "Mhairi's Calculus",
+      "words": 3050
+    },
+    {
+      "ch": 7,
+      "title": "The St Andrew's Speech",
+      "words": 3400
+    },
+    {
+      "ch": 8,
+      "title": "Cathcart's Ledger",
+      "words": 2950
+    },
+    {
+      "ch": 9,
+      "title": "The Glasgow Hall",
+      "words": 3320
+    },
+    {
+      "ch": 10,
+      "title": "The Whisky Compromise",
+      "words": 3100
+    },
+    {
+      "ch": 11,
+      "title": "The Diary Surfaces",
+      "words": 3250
+    },
+    {
+      "ch": 12,
+      "title": "Confessional Pressure",
+      "words": 2980
+    },
+    {
+      "ch": 13,
+      "title": "The Bute House Choice",
+      "words": 3350
+    },
+    {
+      "ch": 14,
+      "title": "Loyalty Tested",
+      "words": 3120
+    },
+    {
+      "ch": 15,
+      "title": "The Bridge Announcement",
+      "words": 3050
+    },
+    {
+      "ch": 16,
+      "title": "Private Doubts, Public Fury",
+      "words": 3280
+    },
+    {
+      "ch": 17,
+      "title": "The Westminster Trap",
+      "words": 3400
+    },
+    {
+      "ch": 18,
+      "title": "Sacrificing a Lieutenant",
+      "words": 3150
+    },
+    {
+      "ch": 19,
+      "title": "The Poll Crash",
+      "words": 3000
+    },
+    {
+      "ch": 20,
+      "title": "The Ultimatum",
+      "words": 3320
+    },
+    {
+      "ch": 21,
+      "title": "Burning the Journal",
+      "words": 2950
+    },
+    {
+      "ch": 22,
+      "title": "The Television Confession",
+      "words": 3500
+    },
+    {
+      "ch": 23,
+      "title": "Aftermath in the Glen",
+      "words": 3100
+    },
+    {
+      "ch": 24,
+      "title": "The Weight of the Stone",
+      "words": 3260
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a confessional monologue from a junior aide who discovers the First Minister's secret journal, torn between loyalty and conscience.",
+      "Script the tense, private conversation between Mhairi (head of communications) and Sir Jeremy Cathcart where they negotiate the 'management' of the First Minister.",
+      "Create a series of leaked diary entries that show MacAulay's internal moral decay, juxtaposed with his soaring public rhetoric.",
+      "Write the chapter where MacAulay, alone in his official residence, finally reads the damning historical precedent from the Scottish Enlightenment he's been ignoring."
+    ],
+    "technical": [
+      "Build a 'Power Corruption Simulator' that models MacAulay's key decisions, tracking his public approval, private morality, and Westminster leverage in real-time.",
+      "Create a 'Confessional Text Analyzer' that compares the private journal language vs. public speech language, visualizing the divergence over the novel's timeline."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Niccolò Machiavelli (on realpolitik and the necessity of vice)",
+      "Robert Burns (on Scottish hypocrisy and the unflinching moral gaze)",
+      "James Hogg (on the divided self and the confessional impulse)",
+      "John Locke (on the social contract and the corruption of delegated power)"
+    ]
+  },
+  "cover_prompt": "A solitary, weathered Scottish politician in a dark, tailored suit stands before an ancient, crumbling drystane dyke, his back to the viewer as he presses his forehead against the cold, mossy stone in a moment of profound private anguish, [atmospheric setting with mood-appropriate details: the scene is set at twilight on a barren Highland moor, mist coiling around the base of the dyke which stretches into the distance, its stones slick with rain and symbolic of fractured unity, with the faint, ghostly silhouette of a modern government building visible in the far valley below], [in the atmospheric style of a specific artist known for similar aesthetics: rendered in the brooding, textural, and psychologically charged style of Anselm Kiefer, combined with the dramatic chiaroscuro and emotional gravity of Rembrandt's portraits], [book cover framing, centered composition, dramatic angle: a tight, intimate book cover composition, the figure centered and monumental, shot from a low angle to emphasize the dyke's imposing scale and the figure's isolation, the scene framed as a stark vertical], [appropriate lighting style with color temperature: dramatic tenebrist lighting with a single, cold source illuminating the figure's back and the wet stones, casting long, deep shadows, within a desaturated color palette of slate grey, peat brown, bruised purple, and the faintest, dying amber of a northern sky], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
